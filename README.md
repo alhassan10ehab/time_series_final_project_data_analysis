@@ -7,6 +7,6 @@ The another dataset (Hourly energy demand generation and weather) contains 4 yea
 
 # models
 **Patch-TST**
-2-	Linear-LSTF
-3-  FEDformer
-4-	LSTM
+**Linear-LSTF**
+**FEDformer**
+**LSTM**
