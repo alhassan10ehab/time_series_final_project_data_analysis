@@ -6,7 +6,7 @@ There are five datasets were used four of them were electrical power consumption
 The another dataset (Hourly energy demand generation and weather) contains 4 years of electrical consumption, generation, pricing, and weather data for Spain. Consumption and generation data was retrieved from ENTSOE a public portal for Transmission Service Operator (TSO) data. Settlement prices were obtained from the Spanish TSO Red Electric España.
 
 # models
-•	Patch-TST
-•	Linear-LSTF
-•	FEDformer
-•	LSTM
+1-	Patch-TST
+2-	Linear-LSTF
+3-  FEDformer
+4-	LSTM
