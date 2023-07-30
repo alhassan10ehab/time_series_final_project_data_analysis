@@ -16,4 +16,4 @@ The another dataset (Hourly energy demand generation and weather) contains 4 yea
 **LSTM**
 
 # results
-![alt text](Isolated.png "Title")
+![Screenshot (40)](https://github.com/alhassan10ehab/time_series_final_project_data_analysis/assets/130251324/77308c61-c682-4879-ba52-c37fd732d77b)
